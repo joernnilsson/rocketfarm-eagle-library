@@ -2,7 +2,7 @@ Rocketfarm Eagle Library
 ========================
 Eagle library containing miscellaneous parts not available in the standard library.
 
-# Pards included
+# Parts included
 - BDW42G (Darlington transistor, TO220 horizontal package)
 - BDW42GV (Darlington transistor, TO220 vertical package)
 - Arduino Nano (Footprint)  
