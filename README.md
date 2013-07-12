@@ -7,6 +7,7 @@ Eagle library containing miscellaneous parts not available in the standard libra
 - BDW42GV (Darlington transistor, TO220 vertical package)
 - Arduino Nano (Board footprint)  
 - GY-52 (MPU-6050 IMU breakout board footprint)  
+- TIP120V (Darlington transistor, TO220 vertical package)
 
 # Installation
 Eagle library installation is thoroughly documented, so please use one of these resources:
